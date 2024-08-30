@@ -1,27 +1,34 @@
 # Changelog
 
-Toutes les modifications notables de ce projet seront documentées dans ce fichier.
+Toutes les modifications de ce projet seront documentées dans ce fichier.
 
 ## [Non publié]
 
 ### 🐛 Corrections de bugs
 
-- Add test page_par romaingilot le 2024-08-30_
+- "Add test page" par **romaingilot** | 2024-08-30 08:48
 
-- Bug_par romaingilot le 2024-08-30_
+- "Bug" par **romaingilot** | 2024-08-30 08:53
+
+- "Test" par **romaingilot** | 2024-08-30 09:11
+
+
+### 📚 Documentation
+
+- "Test" par **romaingilot** | 2024-08-30 09:40
 
 
 ### 🚀 Fonctionnalités
 
-- Add test page_par romaingilot le 2024-08-30_
+- "Add test page" par **romaingilot** | 2024-08-30 08:44
 
-- Add test page_par romaingilot le 2024-08-30_
+- "Add test page" par **romaingilot** | 2024-08-30 08:48
 
-- Add test page2_par romaingilot le 2024-08-30_
+- "Add test page2" par **romaingilot** | 2024-08-30 08:49
 
-- Test_par romaingilot le 2024-08-30_
+- "Test" par **romaingilot** | 2024-08-30 09:04
 
-- Index_par romaingilot le 2024-08-30_
+- "Index" par **romaingilot** | 2024-08-30 09:08
 
 
-Mise en situation professionnelle - Romain GILOT - DFS MNS
+> Mise en situation professionnelle - Romain GILOT - DFS MNS

@@ -1,7 +1,7 @@
 [changelog]
 header = """
 # Changelog\n
-Toutes les modifications notables de ce projet seront documentées dans ce fichier.\n
+Toutes les modifications de ce projet seront documentées dans ce fichier.\n
 """
 body = """
 {% if version %}\
@@ -12,15 +12,12 @@ body = """
 {% for group, commits in commits | group_by(attribute="group") %}
     ### {{ group | striptags | trim | upper_first }}
     {% for commit in commits %}
-        - {% if commit.scope %}*({{ commit.scope }})* {% endif %}\
-          {% if commit.breaking %}[**rupture**] {% endif %}\
-          {{ commit.message | upper_first }}\
-          _par {{ commit.author.name }} le {{ commit.committer.timestamp | date(format="%Y-%m-%d") }}_
+        - "{{ commit.message | upper_first }}" par **{{ commit.author.name }}** | {{ commit.committer.timestamp | date(format="%Y-%m-%d %H:%M") }}
     {% endfor %}
 {% endfor %}\n
 """
 footer = """
-Mise en situation professionnelle - Romain GILOT - DFS MNS
+> Mise en situation professionnelle - Romain GILOT - DFS MNS
 """
 
 [git]
