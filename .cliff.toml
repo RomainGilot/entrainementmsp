@@ -1,8 +1,0 @@
-[changelog]
-header = """
-# Changelog
-Toutes les modifitions notables de ce projet seront documentées dans ce fichier.
-"""
-
-[commit]
-style = "conventional"
