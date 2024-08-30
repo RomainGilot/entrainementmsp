@@ -31,4 +31,9 @@ Toutes les modifications de ce projet seront documentées dans ce fichier.
 - "Index" par **romaingilot** | 2024-08-30 09:08
 
 
+### 🚜 Refactorisation
+
+- "Suppression de fichier inutile" par **romaingilot** | 2024-08-30 09:46
+
+
 > Mise en situation professionnelle - Romain GILOT - DFS MNS
